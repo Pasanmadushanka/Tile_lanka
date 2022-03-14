@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	
+	body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: url(bg.jpg);
+	color: #09F;
+	padding: 0;
+	font-size:20px;
+	margin-left:150px;
+	margin-right:200px;
+   
+}
+p{
+	
+	margin-left:600px;
+	font-size:12px;
+	}
+
+h1,h2,h3, h5, h6 {
+	margin-top: 0;	
+	color: #09F;
+	padding-left: 20px; 
+	
+}
+a:link {
+	color: #09F;
+	text-decoration: none;
+	font-size:24px;
+}
+a:visited {
+	text-decoration: none;
+	font-size:40px;
+	color: #FFF ;
+	
+}
+a:hover {
+	
+	color: #09F  ;
+	font-size:25px;
+}
+
+
+.container {
+	width: 960px;
+	
+	margin: 0 auto;
+	border-width:thick; 
+	opacity: 0.9;
+}
+
+
+.content {
+
+	padding: 0px ;
+}
+
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+	}
+table
+{
+	color: #06F;}
+h{
+	margin-left:960px;}
